@@ -9,7 +9,7 @@
 | Member | GitHub username | Personal CSC181 repository |
 | :---- | :---- | :---- |
 | Michael Andre L. Novela | Michael-Andre-Novela | https\://github.com/Michael-Andre-Novela/csc181 |
-| San B. Tomenio | Flowerman-CCC | https\://github.com/SamTomenio/CSC181.git |
+| Sam B. Tomenio | Flowerman-CCC | https\://github.com/SamTomenio/CSC181.git |
 | Jericho Zhadraq S. Villadolid | Jericho-Villadolid | https\://github.com/Jericho-Villadolid/CSC181.git |
 | Winchester T. dela Vega | AikawaKun9 | https\://github.com/AikawaKun9/csc181 |
 
@@ -186,7 +186,7 @@ Select one option:
 | Member who used AI | Tool | Purpose and sections assisted | How output was checked or revised |
 | :---- | :---- | :---- | :---- |
 | Michael Andre L. Novela | Gemini | I mostly used Gemini to polish my ideas and statements. I also used it to improve my grammar and the structuring of my answers. I used gemini to work on Section 2, 3 and section 4\. | By Proofreading, I made sure that every insight that the AI generated supported my idea. |
-| Sam B. Tomenio | ChatGPT | Gemini  | Grammar check, consolidated ideas from ramblings and translation to make it sound better and polish them at Section 5 Review and Next Steps | Manually checked and read through if generated result matches the idea given |
+| Sam B. Tomenio | ChatGPT and Gemini | Grammar check, consolidated ideas from ramblings and translation to make it sound better and polish them at Section 5 Review and Next Steps | Manually checked and read through if generated result matches the idea given |
 | Jericho Zhadraq S. Villadolid | Claude | Condensing and trimming of long paragraphs of rambles for problem brainstorming and comparison | Reading through the response, determining if the core ideas and key points were preserved. |
 | Winchester Dela Vega | ChatGPT | Used ChatGPT to elaborate my idea,, translate it and check grammars, | Went reading word by word if it was giving me output that is the same as the idea i had given,, also checked if it was translated. |
 
